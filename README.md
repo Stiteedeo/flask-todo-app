@@ -1,4 +1,5 @@
-#“Full-Stack To-Do App with User Authentication (Flask + SQLite)"
+Full-Stack To-Do App with User Authentication (Flask + SQLite)
+
 📝 Overview
 A full-stack To-Do List application built with Flask, SQLAlchemy, and SQLite.
 The app provides user authentication and a task management system with a clean, responsive UI.
